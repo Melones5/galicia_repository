@@ -12,7 +12,11 @@ Desarrollo de un análisis integral de las operaciones de la sucursal Concordia 
 - Pensamiento crítico: Desarrollo de propuestas fundamentadas en datos y herramientas como diagramas de flujo y análisis de Pareto.
 - Gestión de proyectos: Integración de múltiples variables para realizar recomendaciones concretas y aplicables. 
 
+---
+
 # Resultados relevantes
 
 - Propuestas de mejora que incluyen la actualización de sistemas de turnos, reorganización del layout físico y la implementación de estrategias para incrementar la productividad en un 2.91%.
 - Identificación de oportunidades de mejora tecnológica y procesos para fortalecer el liderazgo y la motivación del equipo.
+
+---
