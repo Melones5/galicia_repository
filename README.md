@@ -4,7 +4,7 @@ Desarrollo de un análisis integral de las operaciones de la sucursal Concordia 
 
 ---
 
-# Aptitudes adquiridas
+# 🎯Aptitudes adquiridas
 
 - Análisis estratégico: Identificación de fortalezas, oportunidades y amenazas del entorno competitivo.
 - Gestión de operaciones: Diseño de procesos productivos, optimización de la disposición física y evaluación de capacidad instalada.
@@ -14,9 +14,27 @@ Desarrollo de un análisis integral de las operaciones de la sucursal Concordia 
 
 ---
 
-# Resultados relevantes
+# 🧾Resultados relevantes
 
 - Propuestas de mejora que incluyen la actualización de sistemas de turnos, reorganización del layout físico y la implementación de estrategias para incrementar la productividad en un 2.91%.
 - Identificación de oportunidades de mejora tecnológica y procesos para fortalecer el liderazgo y la motivación del equipo.
 
 ---
+
+# 📷Visualizaciones
+
+## Actividad productiva Concordia
+
+![alt text](/images/3.png)
+
+## Análisis FODA
+
+![alt text](/images/4.png)
+
+## Método de "PONDERACIÓN DE FACTORES"
+
+![alt text](/images/18.png)
+
+## Mejoras y cambios
+
+![alt text](/images/35.png)
